@@ -2,7 +2,36 @@ div
 {
   border:4px solid red;
   border-radius: 15px;
-  width:500px;
+  width:600px;
   padding: 5px;
   margin:auto;
+  overflow: auto;
+  position: absolute;
+  top: 200px;
+  left: 350px;
+}
+h1
+{
+  width:1500px;
+  height:160px;
+  margin:auto;
+  background-color:DodgerBlue;
+  border-radius: 12px;
+  font-size:36px;
+  text-align:center;
+  position: absolute;
+  left: 18px;
+}
+#p1{  font-size: 36px;
+      position: absolute;
+      top: 160px;
+      left: 100px;
+   }
+#u1
+{
+  font-size:36px;
+  color:#7CFC00;
+  position: absolute;
+  top: 250px;
+  left: 60px;
 }
