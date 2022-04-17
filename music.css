@@ -29,9 +29,21 @@ h1
    }
 #u1
 {
+  background-color: #7FFFD4;
+  height: 200px;
+  width: 300px;
+  margin: auto;
+  border-radius: 30px;
   font-size:36px;
   color:#7CFC00;
   position: absolute;
   top: 250px;
   left: 60px;
+}
+#my-header
+{
+ background-color:#123456;
+ color:#fff;
+ padding:5px;
+ text-align:center;
 }
